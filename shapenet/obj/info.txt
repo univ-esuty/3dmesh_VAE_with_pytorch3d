@@ -1,0 +1,1 @@
+Download shapnet .obj files from official website
