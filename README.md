@@ -1,6 +1,6 @@
 ## abstract
 
-This is a 3d model generate VAE model. The following diagram show the simple architecture.  I used Pytorch3d as a differential render and as shown in the figure, the model of inputs and outputs are image so simply, I used L2_loss and KL divergence for training.
+This is a 3d model generator VAE model. The following diagram show the simple architecture.  I used Pytorch3d as a differential render and as shown in the figure, the model of inputs and outputs are image so simply, I used L2_loss and KL divergence for training.
 
 ![simple architecture](images/model.png)
 
