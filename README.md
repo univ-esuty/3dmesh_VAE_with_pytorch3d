@@ -6,7 +6,7 @@ This is a 3d model generator VAE model. The following diagram show the simple ar
 
 **Unfortunately, this model can't generate high quality 3d mesh, please let me know if you have any good ideas or find my mistakes.**
 
-The following figure is the rendered results after 100000 times train loops.
+The following figure is the generated 3d model rendering results after 100000 times train loops.
 
 ![result](images/result.jpg)
 
