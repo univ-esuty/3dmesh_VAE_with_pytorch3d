@@ -6,7 +6,7 @@ This is a 3d model generator VAE model. The following diagram show the simple ar
 
 **Unfortunately, this model can't generate high quality 3d mesh, please let me know if you have any good ideas or find my mistakes.**
 
-The following figures are the generated 3d model rendering results after 100000 times train loops. Top 3x5 images are input multi angel view images, bottom 3x5 images are generated 3d model rendered multi angle view images.
+The following figures are the generated 3d model rendering results after 100k times train loops. Top 3x5 images are input multi angel view images, bottom 3x5 images are generated 3d model rendered multi angle view images.
 
 ![result](images/result_1.jpg)
 
@@ -14,7 +14,7 @@ The following figures are the generated 3d model rendering results after 100000 
 
 ![result](images/result_3.jpg)
 
-The following figures are the are generated 3d model rendered multi angle view images from sampled Z values in latent space after 10000 times train loops.
+The following figures are the are generated 3d model rendered multi angle view images from sampled Z values in latent space after 100k times train loops.
 
 ![result](images/sample_1.jpg) 
 
