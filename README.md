@@ -22,6 +22,10 @@ The following figures are the are generated 3d model rendered multi angle view i
 
 ![result](images/sample_3.jpg) 
 
+The following figure shows the change in loss while training.
+
+![result](images/loss.png) 
+
 ## Setup
 
 * pytorch : 1.9.0+cu102
