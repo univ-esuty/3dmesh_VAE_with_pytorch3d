@@ -31,7 +31,7 @@ You can run it on google colab.
 
 ## Download train datasets
 
-I used 3d model dataset from modelnet. You can download datasets [here](http://modelnet.cs.princeton.edu/#). I used chairs 3d model dataset from ` 10-Class Orientation-aligned Subset`. 
+I used 3d model dataset from modelnet. You can download datasets [here](http://modelnet.cs.princeton.edu/#). I used chairs 3d model dataset in ` 10-Class Orientation-aligned Subset`. 
 
 * modelnet : http://modelnet.cs.princeton.edu/#
 
